@@ -7,7 +7,7 @@ Armenia,ARM,0
 Angola,AGO,0
 American Samoa,ASM,0
 Argentina,ARG,0
-Australia,AUS,0
+Australia,AUS,3
 Bahrain,BHR,0
 Barbados,BRB,0
 Bermuda,BMU,0
@@ -36,41 +36,41 @@ Cayman Islands,CYM,0
 Cameroon,CMR,0
 Chad,TCD,0
 Comoros,COM,0
-Colombia,COL,0
+Colombia,COL,1
 Costa Rica,CRI,0
 Central African Republic,CAF,0
 Cuba,CUB,0
 Cape Verde,CPV,0
 Cook Islands,COK,0
 Cyprus,CYP,0
-Denmark,DNK,0
+Denmark,DNK,1
 Djibouti,DJI,0
 Dominica,DMA,0
 Dominican Republic,DOM,0
 Ecuador,ECU,0
 Egypt,EGY,0
-Ireland,IRL,0
+Ireland,IRL,1
 Equatorial Guinea,GNQ,0
 Estonia,EST,0
 Eritrea,ERI,0
 El Salvador,SLV,0
 Ethiopia,ETH,0
 Austria,AUT,0
-Czech Republic,CZE,0
+Czech Republic,CZE,1
 French Guiana,GUF,0
-Finland,FIN,0
+Finland,FIN,1
 Fiji,FJI,0
 Falkland Islands (Malvinas),FLK,0
 Micronesia, Federated States of,FSM,0
 French Polynesia,PYF,0
-France,FRA,0
+France,FRA,1
 Gambia,GMB,0
 Gabon,GAB,0
 Georgia,GEO,0
 Ghana,GHA,0
 Grenada,GRD,0
 Greenland,GRL,0
-Germany,DEU,0
+Germany,DEU,2
 Guam,GUM,0
 Greece,GRC,0
 Guatemala,GTM,0
@@ -83,11 +83,11 @@ Hungary,HUN,0
 Iceland,ISL,0
 India,IND,0
 Iran (Islamic Republic of),IRN,0
-Israel,ISR,0
+Israel,ISR,1
 Italy,ITA,0
 Cote d'Ivoire,CIV,0
 Iraq,IRQ,0
-Japan,JPN,0
+Japan,JPN,2
 Jamaica,JAM,0
 Jordan,JOR,0
 Kenya,KEN,0
@@ -119,7 +119,7 @@ Malta,MLT,0
 Oman,OMN,0
 Maldives,MDV,0
 Mexico,MEX,0
-Malaysia,MYS,0
+Malaysia,MYS,1
 Mozambique,MOZ,0
 Malawi,MWI,0
 New Caledonia,NCL,0
@@ -128,7 +128,7 @@ Niger,NER,0
 Aruba,ABW,0
 Anguilla,AIA,0
 Belgium,BEL,0
-Hong Kong,HKG,0
+Hong Kong,HKG,1
 Northern Mariana Islands,MNP,0
 Faroe Islands,FRO,0
 Andorra,AND,0
@@ -152,26 +152,26 @@ Christmas Island,CXR,0
 United States Minor Outlying Islands,UMI,0
 Vanuatu,VUT,0
 Nigeria,NGA,0
-Netherlands,NLD,0
-Norway,NOR,0
+Netherlands,NLD,1
+Norway,NOR,1
 Nepal,NPL,0
 Nauru,NRU,0
 Suriname,SUR,0
 Nicaragua,NIC,0
-New Zealand,NZL,0
+New Zealand,NZL,2
 Paraguay,PRY,0
 Peru,PER,0
 Pakistan,PAK,0
 Poland,POL,0
 Panama,PAN,0
-Portugal,PRT,0
+Portugal,PRT,3
 Papua New Guinea,PNG,0
 Guinea-Bissau,GNB,0
 Qatar,QAT,0
 Reunion,REU,0
 Romania,ROU,0
 Republic of Moldova,MDA,0
-Philippines,PHL,0
+Philippines,PHL,1
 Puerto Rico,PRI,0
 Russia,RUS,0
 Rwanda,RWA,0
@@ -186,25 +186,25 @@ Slovenia,SVN,0
 Sierra Leone,SLE,0
 Singapore,SGP,0
 Somalia,SOM,0
-Spain,ESP,0
+Spain,ESP,3
 Saint Lucia,LCA,0
 Sudan,SDN,0
-Sweden,SWE,0
+Sweden,SWE,2
 Syrian Arab Republic,SYR,0
 Switzerland,CHE,0
 Trinidad and Tobago,TTO,0
-Thailand,THA,0
+Thailand,THA,1
 Tajikistan,TJK,0
 Tokelau,TKL,0
 Tonga,TON,0
 Togo,TGO,0
 Sao Tome and Principe,STP,0
 Tunisia,TUN,0
-Turkey,TUR,0
+Turkey,TUR,1
 Tuvalu,TUV,0
 Turkmenistan,TKM,0
 United Republic of Tanzania,TZA,0
-Uganda,UGA,0
+Uganda,UGA,1
 United Kingdom,GBR,8
 Ukraine,UKR,0
 United States,USA,43
@@ -244,4 +244,4 @@ Saint Barthelemy,BLM,0
 Guernsey,GGY,0
 Jersey,JEY,0
 South Georgia South Sandwich Islands,SGS,0
-Taiwan,TWN,0
+Taiwan,TWN,2
